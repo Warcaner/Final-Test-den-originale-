@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 820229237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f07274b03a5d3e29ad40e2404fa15d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b48f5048164b4cd7f73cc9f8cf76aa5d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Colt Python/Materials/BulletHead_magazine_05.mat
+- Assets/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-011.mat
+- Assets/Red.mat
+- Assets/Colt Python/Materials/Aim_point.mat
+- Assets/Colt Python/Materials/Bullet_magazine_04.mat
+- Assets/Colt Python/Materials/Bullet_magazine_06.mat
+- Assets/Colt Python/Materials/BulletHead_magazine_04.mat
+- Assets/Colt Python/Materials/Main_02.mat
+- Assets/Colt Python/Materials/Bullet_magazine_03.mat
+- Assets/Colt Python/Materials/Bullet_magazine_05.mat
+- Assets/Transparent Paint.mat
+- Assets/Oculus/VR/Meshes/Materials/stylized-grass1_albedo.mat
+- Assets/Colt Python/Materials/Bullet_insert_holder.mat
+- Assets/Colt Python/Materials/BulletHead_magazine_01.mat
+- Assets/Colt Python/Materials/Bullet_magazine_02.mat
+- Assets/Colt Python/Materials/Bullet_magazine_01.mat
+- Assets/Colt Python/Materials/BulletHead_magazine_02.mat
+- Assets/Colt Python/Materials/Bullets_to_insert.mat
+- Assets/Colt Python/Materials/BulletHead_magazine_06.mat
+- Assets/Colt Python/Materials/BulletHead_magazine_03.mat
+- Assets/Colt Python/Materials/Main_01.mat
+Dependencies:
+- C:/Users/renac/Final Test/OVRAssetBundles/OVRMasterBundle/asset_png0

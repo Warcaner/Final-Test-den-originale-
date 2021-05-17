@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1233803889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 050837ba6393edc0c1844db0c8ef40af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/A.M.P. DEMO/AMP_Lightning_Cast_05.wav
+- Assets/A.M.P. DEMO/AMP_Lightning_Cast_05_short.wav
+- Assets/A.M.P. DEMO/AMP_Lightning_Impact_06.wav
+Dependencies: []

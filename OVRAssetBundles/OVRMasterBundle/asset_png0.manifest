@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 171516298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 827903bedcc406fab5a823e271fb7acb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Wand.png
+- Assets/Colt Python/texture/Colt_python_normal.png
+- Assets/Colt Python/texture/Colt_Python_texture.png
+- Assets/Colt Python/texture/Metallic_Colt_pyhton.png
+- Assets/Oculus/VR/Meshes/stylized-grass1_albedo.png
+Dependencies: []
